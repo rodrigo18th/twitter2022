@@ -1,0 +1,8 @@
+button{
+    border-radius: 30px;
+    background-color: black;
+    color: white;
+    cursor: pointer;
+    font-size: 20px;
+    font-family: Arial, Georgia;
+}
