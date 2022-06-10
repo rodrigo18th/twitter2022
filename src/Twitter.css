@@ -1,0 +1,22 @@
+.container{
+    display: flex;
+    background-color: rgb(228, 228, 228);
+    padding: 10px;
+}
+.imagem{
+    border-radius: 50%;
+    width: 70px;
+    height: 70px;
+}
+.perfil{
+    display: inline-block;
+    width: 250px;
+    height: 70px;
+}
+
+.texto{
+    font-size: 17px;
+    color: rgb(23, 1, 1);
+    display: inline-block;
+}
+
